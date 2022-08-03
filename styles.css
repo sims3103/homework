@@ -36,12 +36,10 @@ body{
   }
 
   .container{
-    max-width: 750px;
+    max-width: 800px;
     margin: auto;
   }
-
-  .social{
-    background: green;
-
-    
+  .text{
+    color: rgb(165, 219, 237);
   }
+  
