@@ -1,7 +1,51 @@
-.body{
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;700&family=Roboto+Serif:ital,opsz@1,8..144&display=swap');
+
+body{
   background-color: darkolivegreen;
+  color: blanchedalmond;
+}
+.logo{
+  width: 150px;
+  border-radius: 28px;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+.avatar{
+    width: 700px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
 }
 
-.name{
-  color: rgb(243, 79, 20);
+.text1{
+  color:antiquewhite;
+  font-size: 70px;
+}
+.text{
+  color: rgb(246, 244, 243);
+  text-decoration-line: underline;
+  font-size: 20px;
+  text-align:justify;
+  margin: 20px;
+}
+.text2{
+color: darkgoldenrod;
+}
+
+.text3{
+  color: darkgoldenrod;
+  font-size: 35px;
+}
+
+.text4{
+  color: chartreuse;
+  text-align: right;
+}
+
+.text5{
+  font-style: italic;
+}
+
+.photo{
+  width: 600px;
+  border-radius: 28px;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
 }
